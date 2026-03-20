@@ -1,0 +1,2 @@
+-> Criar uma nova aplicação:
+npx create-vite vite .
